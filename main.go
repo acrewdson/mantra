@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
-	"github.com/pugnascotia/cron"
+	"github.com/acrewdson/cron"
 )
 
 func main() {
